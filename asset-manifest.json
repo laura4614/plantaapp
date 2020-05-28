@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/laura4614/plantaapp.git/static/css/main.6b4532cf.chunk.css",
+    "main.js": "/laura4614/plantaapp.git/static/js/main.53168436.chunk.js",
+    "main.js.map": "/laura4614/plantaapp.git/static/js/main.53168436.chunk.js.map",
+    "runtime-main.js": "/laura4614/plantaapp.git/static/js/runtime-main.99854fa3.js",
+    "runtime-main.js.map": "/laura4614/plantaapp.git/static/js/runtime-main.99854fa3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/laura4614/plantaapp.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e150fbdd.chunk.js": "/laura4614/plantaapp.git/static/js/2.e150fbdd.chunk.js",
+    "static/js/2.e150fbdd.chunk.js.map": "/laura4614/plantaapp.git/static/js/2.e150fbdd.chunk.js.map",
+    "index.html": "/laura4614/plantaapp.git/index.html",
+    "precache-manifest.44d2b2f72bad3964b13444e43739c095.js": "/laura4614/plantaapp.git/precache-manifest.44d2b2f72bad3964b13444e43739c095.js",
+    "service-worker.js": "/laura4614/plantaapp.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/laura4614/plantaapp.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6b4532cf.chunk.css.map": "/laura4614/plantaapp.git/static/css/main.6b4532cf.chunk.css.map",
+    "static/js/2.e150fbdd.chunk.js.LICENSE.txt": "/laura4614/plantaapp.git/static/js/2.e150fbdd.chunk.js.LICENSE.txt",
+    "static/media/banner_img.jpg": "/laura4614/plantaapp.git/static/media/banner_img.ba631b63.jpg",
+    "static/media/logo.png": "/laura4614/plantaapp.git/static/media/logo.0d3d7212.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99854fa3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e150fbdd.chunk.js",
+    "static/css/main.6b4532cf.chunk.css",
+    "static/js/main.53168436.chunk.js"
+  ]
+}
